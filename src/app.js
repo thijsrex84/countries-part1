@@ -1,6 +1,6 @@
 import axios from "axios";
 
-console.log('Hallo daar!');
+console.log('Hallo daar! Dit is een nieuw stuk tekst voor een nieuwe pull request');
 
 const list = document.getElementById("countries-list")
 
